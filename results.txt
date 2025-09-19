@@ -3,50 +3,46 @@ LOO impact is defined as the difference between (quality of all sources taken to
 Quality can be defined in many ways - Here is an average of faithfulness and answer relevancy metrics.
 
 === METRICS ===
-Overall - {'faithfulness': 1.0, 'answer_relevancy': 0.9711675820106072}
+{'faithfulness': 1.0, 'answer_relevancy': 0.9725248172893236}
 
 === LOO IMPACT PER SOURCE ===
-IELTS Speaking test preparation tips :: 0.001
-10 tips to improve your IELTS Speaking band score :: 0.001
-How to Improve IELTS Speaking: Top Tips for a Higher Score :: 0.001
-IELTS Speaking: How can I improve my English speaking skills? :: -0.000
-Six daily habits for a higher Speaking band score :: -0.001
-Strategy 1 :: -0.001
-Speaking Tips For IELTS: How to Prepare For IELTS Speaking :: -0.001
-
-
-
-=== METRICS ===
-Overall - {'faithfulness': 1.0, 'answer_relevancy': 0.973329987472013}
-
-=== LOO IMPACT PER SOURCE ===
-IELTS Speaking test preparation tips :: 0.002
-10 tips to improve your IELTS Speaking band score :: 0.001
-How to Improve IELTS Speaking: Top Tips for a Higher Score :: 0.003
-IELTS Speaking: How can I improve my English speaking skills? :: 0.000
-Six daily habits for a higher Speaking band score :: 0.002
-Strategy 3 :: 0.001
-Speaking Tips For IELTS: How to Prepare For IELTS Speaking :: 0.001
-
-
-
-=== METRICS ===
-Overall - {'faithfulness': 1.0, 'answer_relevancy': 0.9725248172893236}
-
-=== LOO IMPACT PER SOURCE ===
-IELTS Speaking test preparation tips :: 0.001
-10 tips to improve your IELTS Speaking band score :: -0.000
-How to Improve IELTS Speaking: Top Tips for a Higher Score :: 0.002
-IELTS Speaking: How can I improve my English speaking skills? :: -0.000
-Six daily habits for a higher Speaking band score :: -0.000
-Strategy 2 :: 0.000
-Speaking Tips For IELTS: How to Prepare For IELTS Speaking :: 0.000
-
-
-IELTS Speaking test preparation tips :: 0.003
+IELTS Speaking test preparation tips :: 0.000
 10 tips to improve your IELTS Speaking band score :: 0.000
-How to Improve IELTS Speaking: Top Tips for a Higher Score :: 0.001
-IELTS Speaking: How can I improve my English speaking skills? :: 0.001
-Six daily habits for a higher Speaking band score :: 0.000
+How to Improve IELTS Speaking: Top Tips for a Higher Score :: 0.000
+IELTS Speaking: How can I improve my English speaking skills? :: -0.000
 how to improve ielts speaking? 10 latest tips - Digital Marketing Course Kochi :: 0.000 (Baseline)
-Speaking Tips For IELTS: How to Prepare For IELTS Speaking :: 0.023
+Speaking Tips For IELTS: How to Prepare For IELTS Speaking :: 0.079
+
+
+
+=== METRICS ===
+{'faithfulness': 1.0, 'answer_relevancy': 0.9733285008319097}
+
+=== LOO IMPACT PER SOURCE ===
+IELTS Speaking test preparation tips :: 0.000
+10 tips to improve your IELTS Speaking band score :: 0.002
+How to Improve IELTS Speaking: Top Tips for a Higher Score :: 0.058
+IELTS Speaking: How can I improve my English speaking skills? :: 0.000
+Strategy 1 :: 0.001
+Speaking Tips For IELTS: How to Prepare For IELTS Speaking :: 0.503
+
+=== METRICS ===
+{'faithfulness': 1.0, 'answer_relevancy': 0.9677733431275595}
+
+=== LOO IMPACT PER SOURCE ===
+IELTS Speaking test preparation tips :: -0.001
+10 tips to improve your IELTS Speaking band score :: -0.000
+How to Improve IELTS Speaking: Top Tips for a Higher Score :: -0.002
+IELTS Speaking: How can I improve my English speaking skills? :: -0.001
+Strategy 2 :: -0.003
+Speaking Tips For IELTS: How to Prepare For IELTS Speaking :: -0.003
+
+
+=== LOO IMPACT PER SOURCE ===
+IELTS Speaking test preparation tips :: -0.001
+10 tips to improve your IELTS Speaking band score :: 0.001
+How to Improve IELTS Speaking: Top Tips for a Higher Score :: -0.001
+IELTS Speaking: How can I improve my English speaking skills? :: 0.001
+Strategy 3 :: 0.002
+Speaking Tips For IELTS: How to Prepare For IELTS Speaking :: 0.119
+
