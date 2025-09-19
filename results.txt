@@ -1,5 +1,5 @@
 The overall metrics take all the context from different sources and create the answer . A faithfulness of 1 ideally indicates the answer is formed only from sources.
-LOO impact is defined as the difference between quality of all sources taken together - quality of all sources taken without the selected document. 
+LOO impact is defined as the difference between (quality of all sources taken together - quality of all sources taken without the selected document). 
 Quality can be defined in many ways - Here is an average of faithfulness and answer relevancy metrics.
 
 === METRICS ===
